@@ -1,0 +1,12 @@
+1.需下載 node js 
+
+https://nodejs.org/en/
+
+2.再開啟visual studio code撰寫 js程式
+
+3.點選左下角 開啟除錯視窗 並選擇 ternminal標籤
+
+4.輸入 node app.js【app為該文件的名稱】即可run程式結果
+
+js基礎教學
+https://www.youtube.com/watch?v=v0QTqHXiVNw
